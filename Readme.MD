@@ -1,0 +1,1 @@
+In this repository it contains the solution (code) for the question 1 and question 2 of the speech understanding assignment.
